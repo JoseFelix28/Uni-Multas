@@ -1,0 +1,512 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    user-select: none;
+}
+
+body {
+    background-size: cover;
+    background: linear-gradient(328deg, #de4009, #e18c10);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+img.logo-min {
+    visibility: hidden;
+}
+
+img.logo-max {
+    visibility: visible;
+    position: fixed;
+    top: 15%;
+    left: 10%;
+    width: 550px;
+}
+
+.container-login {
+    width: 35px;
+    /* background: #fff; */
+    position: fixed;
+    left: 451px;
+    display: block;
+}
+
+form.formulario__login {
+    width: 388px;
+    position: fixed;
+    height: 434px;
+    top: 125px;
+    left: 58%;
+    background: #fff;
+    border-radius: 13px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+
+.text-login {
+    visibility: hidden;
+}
+
+input.input-login {
+    position: relative;
+    top: 19px;
+    left: 36px;
+    width: 80%;
+    height: 54px;
+    text-align: center;
+    border: 1px solid #dd0b0b;
+    margin-bottom: 28px;
+    border-radius: 5px;
+    outline: none;
+    text-decoration: none;
+    display: flex;
+}
+
+input.input-login:focus {
+    border-color: #dd6d0b;
+    box-shadow: 0px 0px 4px rgb(255, 136, 0);
+
+}
+
+input.btn-login {
+    display: flex;
+    position: relative;
+    top: 24px;
+    border-radius: 6px;
+    border: 2px solid orange;
+    height: 11%;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background: orange;
+    /* text-align: center; */
+    justify-content: center;
+    left: 39px;
+    width: 79%;
+}
+
+hr {
+    top: 70%;
+    left: 30px;
+    width: 327px;
+    position: absolute;
+    background: orangered;
+}
+
+.text-logo {
+    visibility: hidden;
+}
+
+
+.btn-close-message{
+    width: 50px;
+    height: 46px;
+    position: absolute;
+    right: -6px;
+    top: -9px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: cursive;
+    padding: 20px;
+    /* background: #ff9800; */
+    color: #2c2a3e;
+    border-radius: 50%;
+    line-height: 10px;
+}
+.error {
+    position: fixed;
+    background: #cb3232;
+    /* left: 68%; */
+    top: 5%;
+    right: 4%;
+    width: 260px;
+    display: flex;
+    height: 72px;
+    color: white;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    text-align: center;
+    z-index: 4;
+}
+.success{
+    position: fixed;
+    background: #23bd56;
+    left: 67%;
+    top: 5%;
+    width: 242px;
+    display: flex;
+    height: 55px;
+    color: white;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    text-align: center;
+
+}
+input {
+    width: 188px;
+    height: 41px;
+    outline: none;
+    border: 1px solid orangered;
+    padding: 11px;
+    border-radius: 5px;
+}
+input.Fecha {
+    height: 30px;
+    display: flex;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    outline: none;
+    border: 2px solid orangered;
+    margin: 6px;
+    border-radius: 6px;
+    /* font-size: 19px; */
+    color: orangered;
+    /* fill: red; */
+    appearance: none;
+}
+
+select {
+    height: 29px;
+    top: 11px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid orangered;
+    outline: none;
+    color: orangered;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 7px;
+    outline: none;
+}
+input.nameUser {
+    position: fixed;
+    top: 66px;
+    left: 41px;
+    outline: none;
+}
+
+input.sndName {
+    top: 67px;
+    left: 237px;
+    position: fixed;
+    outline: none;
+}
+
+input.lastName {
+    top: 115px;
+    position: fixed;
+    left: 41px;
+    outline: none;
+}
+
+input.DNI {
+    left: 237px;
+    position: fixed;
+    top: 116px;
+    outline: none;
+}
+
+input.mailAddress {
+    left: 42px;
+    top: 168px;
+    width: 383px;
+    position: fixed;
+    outline: none;
+}
+
+input.username {
+    position: fixed;
+    top: 220px;
+    left: 40px;
+    outline: none;
+}
+
+input.password {
+    position: fixed;
+    top: 271px;
+    left: 41px;
+    outline: none;
+}
+
+input.passwordSuccess {
+    position: fixed;
+    left: 239px;
+    top: 270px;
+    outline: none;
+}
+
+input.nLicense {
+    position: fixed;
+    top: 321px;
+    left: 43px;
+    outline: none;
+}
+
+select.typeLicense {
+    position: fixed;
+    left: 258px;
+    top: 335px;
+    outline: none;
+}
+
+select.gender {
+    position: fixed;
+    top: 335px;
+    left: 342px;
+    outline: none;
+}
+
+input.Fecha {
+    position: fixed;
+    top: 224px;
+    left: 232px;
+    border: 1px solid orangered;
+    outline: none;
+}
+
+select.country {
+    top: 384px;
+    position: fixed;
+    outline: none;
+    left: 101px;
+}
+
+input.registro {
+    top: 463px;
+    width: 333px;
+    background: orange;
+    outline: none;
+    border: orange;
+    font-size: 21px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    position: fixed;
+    left: 62px;
+}
+@media screen and (max-width:900px) {
+    input {
+        width: 188px;
+        height: 41px;
+        outline: none;
+        border: 1px solid orangered;
+        padding: 11px;
+        border-radius: 5px;
+    }
+    input.Fecha {
+        height: 30px;
+        display: flex;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        outline: none;
+        border: 2px solid orangered;
+        margin: 6px;
+        border-radius: 6px;
+        /* font-size: 19px; */
+        color: orangered;
+        /* fill: red; */
+        appearance: none;
+    }
+    
+    select {
+        height: 29px;
+        /* top: 11px; */
+        display: flex;
+        justify-content: center;
+        border: 1px solid orangered;
+        /* outline: none; */
+        color: orangered;
+        /* left: -7px; */
+        text-align: center;
+        font-size: 13px;
+        border-radius: 7px;
+        /* outline: none; */
+    }
+    input.nameUser {
+        position: fixed;
+        top: 66px;
+        left: 8px;
+        outline: none;
+    }
+    
+    input.sndName {
+        top: 67px;
+        left: 185px;
+        position: fixed;
+        outline: none;
+    }
+    
+    input.lastName {
+        top: 115px;
+        position: fixed;
+        left: 9px;
+        outline: none;
+    }
+    
+    input.DNI {
+        left: 186px;
+        position: fixed;
+        top: 116px;
+        outline: none;
+    }
+    
+    input.mailAddress {
+        left: 9px;
+        top: 168px;
+        width: 342px;
+        position: fixed;
+        outline: none;
+    }
+    
+    input.username {
+        position: fixed;
+        top: 220px;
+        left: 11px;
+        outline: none;
+    }
+    
+    input.password {
+        position: fixed;
+        top: 271px;
+        left: 11px;
+        outline: none;
+    }
+    
+    input.passwordSuccess {
+        position: fixed;
+        left: 187px;
+        top: 270px;
+        outline: none;
+    }
+    
+    input.nLicense {
+        position: fixed;
+        top: 321px;
+        left: 11px;
+        outline: none;
+    }
+    
+    select.typeLicense {
+        position: fixed;
+        left: 258px;
+        top: 335px;
+        outline: none;
+    }
+    
+    select.gender {
+        position: fixed;
+        top: 341px;
+        left: 263px;
+        outline: none;
+    }
+    
+    input.Fecha {
+        position: fixed;
+        top: 224px;
+        left: 184px;
+        border: 1px solid orangered;
+        outline: none;
+    }
+    
+    select.country {
+        top: 384px;
+        position: fixed;
+        outline: none;
+        left: 63px;
+    }
+    
+    input.registro {
+        top: 463px;
+        width: 333px;
+        background: orange;
+        outline: none;
+        border: orange;
+        font-size: 21px;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-weight: bold;
+        position: fixed;
+        left: 62px;
+    }
+    form.formulario__login {
+        width: 363px;
+        position: fixed;
+        height: 434px;
+        top: 127px;
+        left: 2%;
+        background: #fff;
+        border-radius: 13px;
+        box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    }
+    input {
+        border-radius: 5px;
+        outline: none;
+        /* border: 2px solid orangered; */
+        width: 165px;
+        /* top: 7px; */
+        height: 45px;
+        display: flex;
+        /* text-align: center; */
+        justify-content: center;
+        align-items: center;
+        margin: 4px;
+        /* font-weight: bold; */
+        /* font-size: 16px; */
+        /* color: orange; */
+    }
+    .text-logo {
+        visibility: visible;
+        position: fixed;
+        top: 56px;
+        left: 26%;
+        /* font-size: 38px; */
+        font-size: 30px;
+        width: 181px;
+        color: #fff;
+        font-weight: bold;
+
+    }
+
+    img.logo-min {
+        visibility: visible;
+    }
+
+    img.logo-max {
+        visibility: hidden;
+    }
+    input.registro {
+        color: #ffff;
+        margin: 16px;
+        height: 73px;
+        left: -2px;
+        background: orange;
+        border: 2px solid orange;
+    }
+    
+    select.typeLicense {
+        width: 62px;
+        left: 183px;
+        margin: 7px;
+    }
+    
+    select.gender {
+        width: 91px;
+        display: inline;
+    }
+
+}
