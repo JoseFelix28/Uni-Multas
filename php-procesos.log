@@ -1,0 +1,476 @@
+[05-Jul-2022 03:08:53 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:08:53 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:08:53 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:08:53 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::validateSession(): username:josefelix27 - role: admin
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login/authenticate, url => login
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::isPublic(): currentURL => login
+[05-Jul-2022 03:08:53 America/Caracas] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[05-Jul-2022 03:08:53 America/Caracas] ExistPOST: Existen parámetros
+[05-Jul-2022 03:08:53 America/Caracas] login: inicio
+[05-Jul-2022 03:08:53 America/Caracas] Login::authenticate() username and/or password wrong
+[05-Jul-2022 03:08:53 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:08:53 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:08:53 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:08:53 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::validateSession(): username:josefelix27 - role: admin
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login?error=bcbe63ed8464684af6945ad8a89f76f8, url => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::isPublic(): currentURL => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:08:53 America/Caracas] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[05-Jul-2022 03:08:53 America/Caracas] View::handleError() existsKey =>La contraseña no puede estar vacía o ser menor a 8 caracteres
+[05-Jul-2022 03:08:53 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:08:53 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:08:53 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::validateSession(): username:josefelix27 - role: admin
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin, url => admin
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::isPublic(): currentURL => admin
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin, url => admin
+[05-Jul-2022 03:08:53 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:08:53 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:08:53 America/Caracas] user jose
+[05-Jul-2022 03:08:53 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:08:53 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:01 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:01 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:01 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:01 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:01 America/Caracas] sessionController::validateSession(): username:josefelix27 - role: admin
+[05-Jul-2022 03:09:01 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=NJFSecretaria, url => admin?p=NJFSecretaria
+[05-Jul-2022 03:09:01 America/Caracas] sessionController::isPublic(): currentURL => admin?p=NJFSecretaria
+[05-Jul-2022 03:09:01 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=NJFSecretaria, url => admin?p=NJFSecretaria
+[05-Jul-2022 03:09:01 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:01 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:01 America/Caracas] user jose
+[05-Jul-2022 03:09:01 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:01 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:02 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:02 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:02 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:02 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:02 America/Caracas] sessionController::validateSession(): username:josefelix27 - role: admin
+[05-Jul-2022 03:09:02 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=summary, url => admin?p=summary
+[05-Jul-2022 03:09:02 America/Caracas] sessionController::isPublic(): currentURL => admin?p=summary
+[05-Jul-2022 03:09:02 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=summary, url => admin?p=summary
+[05-Jul-2022 03:09:02 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:02 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:02 America/Caracas] user jose
+[05-Jul-2022 03:09:02 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:02 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:03 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:03 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:03 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:03 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:03 America/Caracas] sessionController::validateSession(): username:josefelix27 - role: admin
+[05-Jul-2022 03:09:03 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=summary, url => admin?p=summary
+[05-Jul-2022 03:09:03 America/Caracas] sessionController::isPublic(): currentURL => admin?p=summary
+[05-Jul-2022 03:09:03 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=summary, url => admin?p=summary
+[05-Jul-2022 03:09:03 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:03 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:03 America/Caracas] user jose
+[05-Jul-2022 03:09:03 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:03 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:04 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:04 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:04 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:04 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:04 America/Caracas] sessionController::validateSession(): username:josefelix27 - role: admin
+[05-Jul-2022 03:09:04 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=NJFSecretaria, url => admin?p=NJFSecretaria
+[05-Jul-2022 03:09:04 America/Caracas] sessionController::isPublic(): currentURL => admin?p=NJFSecretaria
+[05-Jul-2022 03:09:04 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=NJFSecretaria, url => admin?p=NJFSecretaria
+[05-Jul-2022 03:09:04 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:04 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:04 America/Caracas] user jose
+[05-Jul-2022 03:09:04 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:04 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:05 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:05 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:05 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::validateSession(): username:josefelix27 - role: admin
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=main, url => admin?p=main
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::isPublic(): currentURL => admin?p=main
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=main, url => admin?p=main
+[05-Jul-2022 03:09:05 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:05 America/Caracas] user jose
+[05-Jul-2022 03:09:05 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:05 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:05 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:05 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:05 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::validateSession(): username:josefelix27 - role: admin
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=profile, url => admin?p=profile
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::isPublic(): currentURL => admin?p=profile
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/admin?p=profile, url => admin?p=profile
+[05-Jul-2022 03:09:05 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:05 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:05 America/Caracas] user jose
+[05-Jul-2022 03:09:05 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:05 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:07 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:07 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:07 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:07 America/Caracas] sessionController::getUserSessionData(): josefelix27
+[05-Jul-2022 03:09:07 America/Caracas] sessionController::validateSession(): username:josefelix27 - role: admin
+[05-Jul-2022 03:09:07 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/logout, url => logout
+[05-Jul-2022 03:09:07 America/Caracas] sessionController::isPublic(): currentURL => logout
+[05-Jul-2022 03:09:07 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/logout, url => logout
+[05-Jul-2022 03:09:07 America/Caracas] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[05-Jul-2022 03:09:07 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:07 America/Caracas] APP::construc-> No se especificó ningun controlador
+[05-Jul-2022 03:09:07 America/Caracas] Main::construct -> Pagina Principal
+[05-Jul-2022 03:09:08 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:08 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:08 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:08 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:08 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:08 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login, url => login
+[05-Jul-2022 03:09:08 America/Caracas] sessionController::isPublic(): currentURL => login
+[05-Jul-2022 03:09:08 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:08 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:08 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:11 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:11 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:11 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:11 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login/authenticate, url => login
+[05-Jul-2022 03:09:11 America/Caracas] sessionController::isPublic(): currentURL => login
+[05-Jul-2022 03:09:11 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:11 America/Caracas] ExistPOST: Existen parámetros
+[05-Jul-2022 03:09:11 America/Caracas] login: inicio
+[05-Jul-2022 03:09:11 America/Caracas] Login::authenticate() username and/or password wrong
+[05-Jul-2022 03:09:11 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:11 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:11 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:11 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login?error=bcbe63ed8464684af6945ad8a89f76f8, url => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:09:11 America/Caracas] sessionController::isPublic(): currentURL => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:09:11 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:11 America/Caracas] View::handleError() existsKey =>La contraseña no puede estar vacía o ser menor a 8 caracteres
+[05-Jul-2022 03:09:11 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:11 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:14 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:14 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:14 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:14 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login/authenticate, url => login
+[05-Jul-2022 03:09:14 America/Caracas] sessionController::isPublic(): currentURL => login
+[05-Jul-2022 03:09:14 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:14 America/Caracas] ExistPOST: Existen parámetros
+[05-Jul-2022 03:09:14 America/Caracas] login: inicio
+[05-Jul-2022 03:09:14 America/Caracas] Login::authenticate() username and/or password wrong
+[05-Jul-2022 03:09:14 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:14 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:14 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:14 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login?error=bcbe63ed8464684af6945ad8a89f76f8, url => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:09:14 America/Caracas] sessionController::isPublic(): currentURL => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:09:14 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:14 America/Caracas] View::handleError() existsKey =>La contraseña no puede estar vacía o ser menor a 8 caracteres
+[05-Jul-2022 03:09:14 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:14 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:16 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:16 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:16 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:16 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login/authenticate, url => login
+[05-Jul-2022 03:09:16 America/Caracas] sessionController::isPublic(): currentURL => login
+[05-Jul-2022 03:09:16 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:16 America/Caracas] ExistPOST: Existen parámetros
+[05-Jul-2022 03:09:16 America/Caracas] login: inicio
+[05-Jul-2022 03:09:16 America/Caracas] login: user username josefelix28
+[05-Jul-2022 03:09:16 America/Caracas] login: success
+[05-Jul-2022 03:09:16 America/Caracas] Login::authenticate() passed
+[05-Jul-2022 03:09:16 America/Caracas] sessionController::initialize(): user: josefelix28
+[05-Jul-2022 03:09:16 America/Caracas] sessionController::authorizeAccess(): role: user
+[05-Jul-2022 03:09:16 America/Caracas] sessionController::getCurrentPage: Inicia como Usuario
+[05-Jul-2022 03:09:16 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:16 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:16 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:16 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:16 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:16 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user, url => user
+[05-Jul-2022 03:09:16 America/Caracas] sessionController::isPublic(): currentURL => user
+[05-Jul-2022 03:09:16 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user, url => user
+[05-Jul-2022 03:09:16 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:16 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:16 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:16 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:16 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
+[05-Jul-2022 03:09:18 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:18 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:18 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:18 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:18 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:18 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/logout, url => logout
+[05-Jul-2022 03:09:18 America/Caracas] sessionController::isPublic(): currentURL => logout
+[05-Jul-2022 03:09:18 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/logout, url => logout
+[05-Jul-2022 03:09:18 America/Caracas] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[05-Jul-2022 03:09:18 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:18 America/Caracas] APP::construc-> No se especificó ningun controlador
+[05-Jul-2022 03:09:18 America/Caracas] Main::construct -> Pagina Principal
+[05-Jul-2022 03:09:18 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:18 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:19 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:19 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:19 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:19 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login, url => login
+[05-Jul-2022 03:09:19 America/Caracas] sessionController::isPublic(): currentURL => login
+[05-Jul-2022 03:09:19 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:19 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:20 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:22 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:22 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:22 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:22 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login/authenticate, url => login
+[05-Jul-2022 03:09:22 America/Caracas] sessionController::isPublic(): currentURL => login
+[05-Jul-2022 03:09:22 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:22 America/Caracas] ExistPOST: Existen parámetros
+[05-Jul-2022 03:09:22 America/Caracas] login: inicio
+[05-Jul-2022 03:09:22 America/Caracas] Login::authenticate() username and/or password wrong
+[05-Jul-2022 03:09:22 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:22 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:22 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:22 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login?error=bcbe63ed8464684af6945ad8a89f76f8, url => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:09:22 America/Caracas] sessionController::isPublic(): currentURL => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:09:22 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:22 America/Caracas] View::handleError() existsKey =>La contraseña no puede estar vacía o ser menor a 8 caracteres
+[05-Jul-2022 03:09:22 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:22 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:28 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:28 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:28 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:28 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login/authenticate, url => login
+[05-Jul-2022 03:09:28 America/Caracas] sessionController::isPublic(): currentURL => login
+[05-Jul-2022 03:09:28 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:28 America/Caracas] ExistPOST: Existen parámetros
+[05-Jul-2022 03:09:28 America/Caracas] login: inicio
+[05-Jul-2022 03:09:29 America/Caracas] Login::authenticate() username and/or password wrong
+[05-Jul-2022 03:09:29 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:29 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:29 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:29 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login?error=bcbe63ed8464684af6945ad8a89f76f8, url => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:09:29 America/Caracas] sessionController::isPublic(): currentURL => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:09:29 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:29 America/Caracas] View::handleError() existsKey =>La contraseña no puede estar vacía o ser menor a 8 caracteres
+[05-Jul-2022 03:09:29 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:29 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:31 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:31 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:31 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:31 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login/authenticate, url => login
+[05-Jul-2022 03:09:31 America/Caracas] sessionController::isPublic(): currentURL => login
+[05-Jul-2022 03:09:31 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:31 America/Caracas] ExistPOST: Existen parámetros
+[05-Jul-2022 03:09:31 America/Caracas] login: inicio
+[05-Jul-2022 03:09:31 America/Caracas] Login::authenticate() username and/or password wrong
+[05-Jul-2022 03:09:32 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:32 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:32 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:32 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login?error=bcbe63ed8464684af6945ad8a89f76f8, url => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:09:32 America/Caracas] sessionController::isPublic(): currentURL => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[05-Jul-2022 03:09:32 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:32 America/Caracas] View::handleError() existsKey =>La contraseña no puede estar vacía o ser menor a 8 caracteres
+[05-Jul-2022 03:09:32 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:32 America/Caracas] Errores::construct-> Error 404
+[05-Jul-2022 03:09:33 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:33 America/Caracas] Login::construct -> Inicio de Login
+[05-Jul-2022 03:09:33 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:33 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/login/authenticate, url => login
+[05-Jul-2022 03:09:33 America/Caracas] sessionController::isPublic(): currentURL => login
+[05-Jul-2022 03:09:33 America/Caracas] SessionController::validateSession() public page
+[05-Jul-2022 03:09:33 America/Caracas] ExistPOST: Existen parámetros
+[05-Jul-2022 03:09:33 America/Caracas] login: inicio
+[05-Jul-2022 03:09:33 America/Caracas] login: user username josefelix28
+[05-Jul-2022 03:09:33 America/Caracas] login: success
+[05-Jul-2022 03:09:33 America/Caracas] Login::authenticate() passed
+[05-Jul-2022 03:09:33 America/Caracas] sessionController::initialize(): user: josefelix28
+[05-Jul-2022 03:09:33 America/Caracas] sessionController::authorizeAccess(): role: user
+[05-Jul-2022 03:09:33 America/Caracas] sessionController::getCurrentPage: Inicia como Usuario
+[05-Jul-2022 03:09:33 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:33 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:33 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:33 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:33 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:33 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user, url => user
+[05-Jul-2022 03:09:33 America/Caracas] sessionController::isPublic(): currentURL => user
+[05-Jul-2022 03:09:33 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user, url => user
+[05-Jul-2022 03:09:33 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:33 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:33 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:33 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:33 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
+[05-Jul-2022 03:09:35 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:35 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:35 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:35 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:35 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:35 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=multas, url => user?p=multas
+[05-Jul-2022 03:09:35 America/Caracas] sessionController::isPublic(): currentURL => user?p=multas
+[05-Jul-2022 03:09:35 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=multas, url => user?p=multas
+[05-Jul-2022 03:09:35 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:35 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:35 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:35 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:35 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
+[05-Jul-2022 03:09:35 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in D:\xampp\htdocs\Uni-Multas\views\user\enviroments\multas.php:14
+Stack trace:
+#0 D:\xampp\htdocs\Uni-Multas\views\user\index.php(7): require_once()
+#1 D:\xampp\htdocs\Uni-Multas\core\view.php(14): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Uni-Multas\controllers\user.php(20): View->render('user/index', Array)
+#3 D:\xampp\htdocs\Uni-Multas\core\app.php(54): User->render()
+#4 D:\xampp\htdocs\Uni-Multas\index.php(38): App->__construct()
+#5 {main}
+  thrown in D:\xampp\htdocs\Uni-Multas\views\user\enviroments\multas.php on line 14
+[05-Jul-2022 03:09:36 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:36 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:36 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:36 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:36 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:36 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=history, url => user?p=history
+[05-Jul-2022 03:09:36 America/Caracas] sessionController::isPublic(): currentURL => user?p=history
+[05-Jul-2022 03:09:36 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=history, url => user?p=history
+[05-Jul-2022 03:09:36 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:36 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:36 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:36 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:36 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
+[05-Jul-2022 03:09:37 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:37 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:37 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:37 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:37 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:37 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=multas, url => user?p=multas
+[05-Jul-2022 03:09:37 America/Caracas] sessionController::isPublic(): currentURL => user?p=multas
+[05-Jul-2022 03:09:37 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=multas, url => user?p=multas
+[05-Jul-2022 03:09:37 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:37 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:37 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:37 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:37 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
+[05-Jul-2022 03:09:37 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in D:\xampp\htdocs\Uni-Multas\views\user\enviroments\multas.php:14
+Stack trace:
+#0 D:\xampp\htdocs\Uni-Multas\views\user\index.php(7): require_once()
+#1 D:\xampp\htdocs\Uni-Multas\core\view.php(14): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Uni-Multas\controllers\user.php(20): View->render('user/index', Array)
+#3 D:\xampp\htdocs\Uni-Multas\core\app.php(54): User->render()
+#4 D:\xampp\htdocs\Uni-Multas\index.php(38): App->__construct()
+#5 {main}
+  thrown in D:\xampp\htdocs\Uni-Multas\views\user\enviroments\multas.php on line 14
+[05-Jul-2022 03:09:38 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:38 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:38 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:38 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:38 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:38 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=main, url => user?p=main
+[05-Jul-2022 03:09:38 America/Caracas] sessionController::isPublic(): currentURL => user?p=main
+[05-Jul-2022 03:09:38 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=main, url => user?p=main
+[05-Jul-2022 03:09:38 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:38 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:38 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:38 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:38 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
+[05-Jul-2022 03:09:42 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:42 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:42 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:42 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:42 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:42 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=multas, url => user?p=multas
+[05-Jul-2022 03:09:42 America/Caracas] sessionController::isPublic(): currentURL => user?p=multas
+[05-Jul-2022 03:09:42 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=multas, url => user?p=multas
+[05-Jul-2022 03:09:42 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:42 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:42 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:42 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:42 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
+[05-Jul-2022 03:09:42 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in D:\xampp\htdocs\Uni-Multas\views\user\enviroments\multas.php:14
+Stack trace:
+#0 D:\xampp\htdocs\Uni-Multas\views\user\index.php(7): require_once()
+#1 D:\xampp\htdocs\Uni-Multas\core\view.php(14): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Uni-Multas\controllers\user.php(20): View->render('user/index', Array)
+#3 D:\xampp\htdocs\Uni-Multas\core\app.php(54): User->render()
+#4 D:\xampp\htdocs\Uni-Multas\index.php(38): App->__construct()
+#5 {main}
+  thrown in D:\xampp\htdocs\Uni-Multas\views\user\enviroments\multas.php on line 14
+[05-Jul-2022 03:09:43 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:43 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:43 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:43 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:43 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:43 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=history, url => user?p=history
+[05-Jul-2022 03:09:43 America/Caracas] sessionController::isPublic(): currentURL => user?p=history
+[05-Jul-2022 03:09:43 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=history, url => user?p=history
+[05-Jul-2022 03:09:43 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:43 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:43 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:43 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:43 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
+[05-Jul-2022 03:09:44 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:44 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:44 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:44 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:44 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:44 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=multas, url => user?p=multas
+[05-Jul-2022 03:09:44 America/Caracas] sessionController::isPublic(): currentURL => user?p=multas
+[05-Jul-2022 03:09:44 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=multas, url => user?p=multas
+[05-Jul-2022 03:09:44 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:44 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:44 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:44 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:44 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
+[05-Jul-2022 03:09:44 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in D:\xampp\htdocs\Uni-Multas\views\user\enviroments\multas.php:14
+Stack trace:
+#0 D:\xampp\htdocs\Uni-Multas\views\user\index.php(7): require_once()
+#1 D:\xampp\htdocs\Uni-Multas\core\view.php(14): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Uni-Multas\controllers\user.php(20): View->render('user/index', Array)
+#3 D:\xampp\htdocs\Uni-Multas\core\app.php(54): User->render()
+#4 D:\xampp\htdocs\Uni-Multas\index.php(38): App->__construct()
+#5 {main}
+  thrown in D:\xampp\htdocs\Uni-Multas\views\user\enviroments\multas.php on line 14
+[05-Jul-2022 03:09:46 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:46 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:46 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=history, url => user?p=history
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::isPublic(): currentURL => user?p=history
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=history, url => user?p=history
+[05-Jul-2022 03:09:46 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:46 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:46 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:46 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
+[05-Jul-2022 03:09:46 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:46 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:46 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=multas, url => user?p=multas
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::isPublic(): currentURL => user?p=multas
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=multas, url => user?p=multas
+[05-Jul-2022 03:09:46 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:46 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:46 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:46 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:46 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
+[05-Jul-2022 03:09:46 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in D:\xampp\htdocs\Uni-Multas\views\user\enviroments\multas.php:14
+Stack trace:
+#0 D:\xampp\htdocs\Uni-Multas\views\user\index.php(7): require_once()
+#1 D:\xampp\htdocs\Uni-Multas\core\view.php(14): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Uni-Multas\controllers\user.php(20): View->render('user/index', Array)
+#3 D:\xampp\htdocs\Uni-Multas\core\app.php(54): User->render()
+#4 D:\xampp\htdocs\Uni-Multas\index.php(38): App->__construct()
+#5 {main}
+  thrown in D:\xampp\htdocs\Uni-Multas\views\user\enviroments\multas.php on line 14
+[05-Jul-2022 03:09:47 America/Caracas] Inicio de Procesos
+[05-Jul-2022 03:09:47 America/Caracas] SessionController::validateSession()
+[05-Jul-2022 03:09:47 America/Caracas] PHP Notice:  Undefined index: photo in D:\xampp\htdocs\Uni-Multas\models\usersFModel.php on line 194
+[05-Jul-2022 03:09:47 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:47 America/Caracas] sessionController::validateSession(): username:josefelix28 - role: user
+[05-Jul-2022 03:09:47 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=main, url => user?p=main
+[05-Jul-2022 03:09:47 America/Caracas] sessionController::isPublic(): currentURL => user?p=main
+[05-Jul-2022 03:09:47 America/Caracas] sessionController::getCurrentPage(): actualLink =>/Uni-Multas/user?p=main, url => user?p=main
+[05-Jul-2022 03:09:47 America/Caracas] SessionController::validateSession() => autorizado, lo deja pasar
+[05-Jul-2022 03:09:47 America/Caracas] sessionController::getUserSessionData(): josefelix28
+[05-Jul-2022 03:09:47 America/Caracas] user Jose Felix
+[05-Jul-2022 03:09:47 America/Caracas] PHP Notice:  Undefined index: dates in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 2
+[05-Jul-2022 03:09:47 America/Caracas] PHP Notice:  Undefined index: infractions in D:\xampp\htdocs\Uni-Multas\views\user\dashboard\index.php on line 3
